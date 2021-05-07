@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react'
 import '../App.css'
-import {FaLinkedin, FaGithub, FaFileAlt, FaEnvelope, FaRProject, FaExpeditedssl, FaCircle} from 'react-icons/fa'
+import {FaLinkedin, FaGithub, FaFileAlt, FaEnvelope} from 'react-icons/fa'
 import { IconContext } from 'react-icons'
 import { Container, Row, Col, Image } from 'react-bootstrap'
 import Headshot from '../Images/Headshot.png'

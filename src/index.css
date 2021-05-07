@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+  margin: none;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -7,7 +7,18 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@font-face {
+  font-family: 'DMSans-Medium';
+  src: local('DMSans-Medium'), url(./Fonts/DMSans-Medium.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'DMSans-Bold';
+  src: local('DMSans-Bold'), url('./Fonts/DMSans-Bold.ttf') format('truetype');
 }
