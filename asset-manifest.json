@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f561ad3.chunk.css",
+    "main.js": "/static/js/main.a976e0b2.chunk.js",
+    "main.js.map": "/static/js/main.a976e0b2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b5104d25.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b5104d25.js.map",
+    "static/css/2.667362ae.chunk.css": "/static/css/2.667362ae.chunk.css",
+    "static/js/2.83cd91e1.chunk.js": "/static/js/2.83cd91e1.chunk.js",
+    "static/js/2.83cd91e1.chunk.js.map": "/static/js/2.83cd91e1.chunk.js.map",
+    "static/js/3.aa88c58a.chunk.js": "/static/js/3.aa88c58a.chunk.js",
+    "static/js/3.aa88c58a.chunk.js.map": "/static/js/3.aa88c58a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.667362ae.chunk.css.map": "/static/css/2.667362ae.chunk.css.map",
+    "static/css/main.9f561ad3.chunk.css.map": "/static/css/main.9f561ad3.chunk.css.map",
+    "static/js/2.83cd91e1.chunk.js.LICENSE.txt": "/static/js/2.83cd91e1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/DMSans-Medium.f4583469.ttf",
+    "static/media/Headshot.7d7adb33.png": "/static/media/Headshot.7d7adb33.png",
+    "static/media/JukeJam.5db5d9c6.png": "/static/media/JukeJam.5db5d9c6.png",
+    "static/media/Music.b323a6df.png": "/static/media/Music.b323a6df.png",
+    "static/media/PDFReader.8636cffc.png": "/static/media/PDFReader.8636cffc.png",
+    "static/media/SketchIt.91511a42.png": "/static/media/SketchIt.91511a42.png",
+    "static/media/SnakeGame.a12ac24a.png": "/static/media/SnakeGame.a12ac24a.png",
+    "static/media/Stratego.390adba1.png": "/static/media/Stratego.390adba1.png",
+    "static/media/Travel.fc134c56.png": "/static/media/Travel.fc134c56.png",
+    "static/media/VirtualCloset.d31d8c7a.jpeg": "/static/media/VirtualCloset.d31d8c7a.jpeg",
+    "static/media/Volleyball.c56f5328.png": "/static/media/Volleyball.c56f5328.png",
+    "static/media/WebDeveloperBootCamp.dd23a5bc.png": "/static/media/WebDeveloperBootCamp.dd23a5bc.png",
+    "static/media/WhichWay.32bf380a.jpeg": "/static/media/WhichWay.32bf380a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5104d25.js",
+    "static/css/2.667362ae.chunk.css",
+    "static/js/2.83cd91e1.chunk.js",
+    "static/css/main.9f561ad3.chunk.css",
+    "static/js/main.a976e0b2.chunk.js"
+  ]
+}
