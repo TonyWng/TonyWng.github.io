@@ -38,7 +38,33 @@ export default function Experience(props) {
                                     <span className="fa-li">
                                         <FontAwesomeIcon className="bulletStyle" icon={faCode} listItem />
                                     </span>
-                           
+                                    <h1 className="projectDescriptText">
+                                    Developed an internal subscription management dashboard from end to end using Typescript and GraphQL, interfaced with React, improving contract administration efficiency and accelerating sign-up speeds by 30%.
+                                    </h1>
+                                </li>
+                                <li>
+                                    <span className="fa-li">
+                                        <FontAwesomeIcon className="bulletStyle" icon={faCode} listItem />
+                                    </span>
+                                    <h1 className="projectDescriptText">
+                                    Improved speed of developer build pipeline by optimizing cypress test suites, reducing integration testing time by 20%.
+                                    </h1>
+                                </li>
+                                <li>
+                                    <span className="fa-li">
+                                        <FontAwesomeIcon className="bulletStyle" icon={faCode} listItem />
+                                    </span>
+                                    <h1 className="projectDescriptText">
+                                    Reimplemented various product workflows based on customer feedback to improve product usability and efficiency
+                                    </h1>
+                                </li>
+                                <li>
+                                    <span className="fa-li">
+                                        <FontAwesomeIcon className="bulletStyle" icon={faCode} listItem />
+                                    </span>
+                                    <h1 className="projectDescriptText">
+                                    Worked effectively in scrum environment to deliver bug fixes and product features on Tehama's web application using Typescript, React, GraphQL, and Sequelize.
+                                    </h1>
                                 </li>
                             </ul>
 
