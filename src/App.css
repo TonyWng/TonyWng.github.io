@@ -295,9 +295,9 @@ html, body, #app, #app>div {
     display: none; 
   }
 
-  .UpArrow {
+  /* .UpArrow {
     display: none; 
-  }
+  } */
 }
 
 @media only screen and (min-width: 1025px){
@@ -318,6 +318,17 @@ html, body, #app, #app>div {
 @media only screen and (max-width: 1025px) {
   .buttonStyle {
     margin: 10px;
+  }
+}
+
+@media only screen and (min-width: 1440px) {
+  .UpArrow {
+    display: block; 
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    z-index: 1000;
+    font-size: 50px;
   }
 }
 
