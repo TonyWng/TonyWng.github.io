@@ -39,7 +39,7 @@ export default function Experience(props) {
                                         <FontAwesomeIcon className="bulletStyle" icon={faCode} listItem />
                                     </span>
                                     <h1 className="projectDescriptText">
-                                    Developed an internal subscription management dashboard from end to end using Typescript and GraphQL, interfaced with React, improving contract administration efficiency and accelerating sign-up speeds by 30%.
+                                    Improved contract administration efficiency and accelerated sign-up speeds by 40% through implementing an internal subscription management dashboard from end to end using Typescript, Sequelize and GraphQL, interfaced with React and Semantic-UI.                                   
                                     </h1>
                                 </li>
                                 <li>
@@ -47,7 +47,7 @@ export default function Experience(props) {
                                         <FontAwesomeIcon className="bulletStyle" icon={faCode} listItem />
                                     </span>
                                     <h1 className="projectDescriptText">
-                                    Improved speed of developer build pipeline by optimizing cypress test suites, reducing integration testing time by 20%.
+                                    Reduced developer build time by 20% through optimizing CI/CD pipeline by refactoring 25+ Cypress test suites and spearheading the migration of 50+ Selenium tests to Cypress.                                    
                                     </h1>
                                 </li>
                                 <li>
@@ -55,7 +55,7 @@ export default function Experience(props) {
                                         <FontAwesomeIcon className="bulletStyle" icon={faCode} listItem />
                                     </span>
                                     <h1 className="projectDescriptText">
-                                    Reimplemented various product workflows based on customer feedback to improve product usability and efficiency
+                                    Increased product usability metrics by following UDD principles to revamp various application workflows.                                    
                                     </h1>
                                 </li>
                                 <li>
@@ -63,7 +63,15 @@ export default function Experience(props) {
                                         <FontAwesomeIcon className="bulletStyle" icon={faCode} listItem />
                                     </span>
                                     <h1 className="projectDescriptText">
-                                    Worked effectively in scrum environment to deliver bug fixes and product features on Tehama's web application using Typescript, React, GraphQL, and Sequelize.
+                                    Worked effectively in scrum environment across teams to deliver 25+ bug fixes and product features on Tehama's web application.                                    
+                                    </h1>
+                                </li>
+                                <li>
+                                    <span className="fa-li">
+                                        <FontAwesomeIcon className="bulletStyle" icon={faCode} listItem />
+                                    </span>
+                                    <h1 className="projectDescriptText">
+                                    Expanded test coverage by 15%, reducing need for manual regression testing by writing 50+ unit, snapshot, and integration tests using Jest and Cypress.                                  
                                     </h1>
                                 </li>
                             </ul>
