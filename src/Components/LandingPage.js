@@ -44,7 +44,7 @@ export default function LandingPage(props) {
                             <a href="https://github.com/TonyWng" target="_blank">
                                 <FaGithub color="black"/>
                             </a>
-                            <a href="https://drive.google.com/file/d/1KMKEvWpMsOa-v4a1yOT1hkYqqvt2L9hZ/view?usp=sharing" target="_blank">
+                            <a href="https://drive.google.com/file/d/1tcmjQmLJLotgN41glCgUyL5q493t8-qK/view?usp=sharing" target="_blank">
                                 <FaFileAlt color="black"/>
                             </a>
                             <a href="mailto:Tonyy.wangg@gmail.com">

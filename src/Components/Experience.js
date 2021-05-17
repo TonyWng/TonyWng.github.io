@@ -47,8 +47,7 @@ export default function Experience(props) {
                                         <FontAwesomeIcon className="bulletStyle" icon={faCode} listItem />
                                     </span>
                                     <h1 className="projectDescriptText">
-                                    Reduced developer build time by 20% through optimizing CI/CD pipeline by refactoring 25+ Cypress test suites and spearheading the migration of 50+ Selenium tests to Cypress.                                    
-                                    </h1>
+                                    Reduced developer build time by 20% through optimizing CI/CD pipeline, refactoring 25+ Cypress test suites and spearheading the migration of 50+ Selenium tests to Cypress.                                    </h1>
                                 </li>
                                 <li>
                                     <span className="fa-li">
@@ -71,7 +70,7 @@ export default function Experience(props) {
                                         <FontAwesomeIcon className="bulletStyle" icon={faCode} listItem />
                                     </span>
                                     <h1 className="projectDescriptText">
-                                    Expanded test coverage by 15%, reducing need for manual regression testing by writing 50+ unit, snapshot, and integration tests using Jest and Cypress.                                  
+                                    Expanded automated test coverage by 15%, reducing need for manual regression testing by writing 50+ unit, snapshot, and integration tests using Jest and Cypress.                                  
                                     </h1>
                                 </li>
                             </ul>
@@ -112,8 +111,7 @@ export default function Experience(props) {
                                         <FontAwesomeIcon className="bulletStyle" icon={faCode} listItem />
                                     </span>
                                     <h1 className="projectDescriptText">
-                                        Handled site-launches, migrating DNS records, and generating SSL certifications to seamlessly support hosting for customers' websites
-
+                                    Handled site-launches, migrated DNS records, and generated SSL certifications to seamlessly support hosting across 80+ customer websites.
                                     </h1>
                                 </li>
                             </ul>
